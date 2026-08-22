@@ -1,4 +1,5 @@
 # Securitisation Risk Arena
+![Power BI Dashboard](docs/dashboard.png)
 
 ## Project Overview
 An end-to-end Risk Analytics and Securitisation modeling platform built to demonstrate advanced SQL, Python, IFRS-9 ECL calculations, and Tranche Waterfall modeling. 
