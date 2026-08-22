@@ -1,0 +1,13 @@
+# Data Quality Report
+
+| table              | check                 | status   | details                       |
+|:-------------------|:----------------------|:---------|:------------------------------|
+| customers          | Row Count             | PASS     | 49500 rows                    |
+| customers          | Unique IDs            | PASS     | 49500 unique                  |
+| customers          | Null Count            | PASS     | 0 nulls                       |
+| loans              | Row Count             | PASS     | 55000 rows                    |
+| loans              | Unique IDs            | PASS     | 55000 unique                  |
+| loans              | LTV Logic             | PASS     | LTV >= 0 check                |
+| loans              | Interest Rate Logic   | PASS     | Interest > 0 check            |
+| loans_customers_fk | Referential Integrity | PASS     | All loans have valid customer |
+| loan_performance   | Row Count             | PASS     | 495180 rows                   |
