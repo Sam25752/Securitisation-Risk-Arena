@@ -1,0 +1,11 @@
+rule_id,priority,description,pct_allocation
+1,1,Servicing Fees,0.01
+2,2,Interest AAA,
+3,3,Interest AA,
+4,4,Interest A,
+5,5,Interest BBB,
+6,6,Principal AAA,
+7,7,Principal AA,
+8,8,Principal A,
+9,9,Principal BBB,
+10,10,Equity / Residual,

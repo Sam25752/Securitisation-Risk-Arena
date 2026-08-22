@@ -1,0 +1,4 @@
+event_id,name,hpi_shock,unemp_shock,recovery_shock
+CR-01,Subprime Mortgage Crash,-0.3,0.05,-0.4
+CR-02,Pandemic Liquidity Squeeze,-0.1,0.1,-0.2
+CR-03,Runaway Inflation,-0.05,0.02,-0.1
